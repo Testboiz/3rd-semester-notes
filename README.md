@@ -1,0 +1,1 @@
+This is some notes for my 3rd semester in UBM University on GitHub written In Indonesian 
